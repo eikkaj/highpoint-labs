@@ -1,13 +1,13 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "HighPoint Labs - A Creative Collective"
+subtitle: A Creative Collective Enthralled in Adventure, Sustainability, and Technology
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why HighPoint Labs?
+    text: "We're a local collective enthralled in adventure, sustainability, and technology. Our passion is to bridge these core values together while providing the highest quality of solutions, ideas, content, and thought."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: What we offer
+    text: "HighPoint Labs specializes in custom web and application development. Our developers have worked across industries while living and breathing scale, reliability, and creativity. We offer tailored applications, websites, or out of the box solutions, depending on our client's need and budget."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
