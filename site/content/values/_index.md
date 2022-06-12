@@ -1,29 +1,17 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: "What is HighPoint Labs?"
+image: /img/milks.png
 values:
   - heading: "Do Good."
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      We take projects on that benefit people and the planet. 
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Bring awareness."
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      We aspire to contribute content and solutions that bring awareness around issues we face every day.
     imageUrl: "/img/about-single-origin.jpg"
   - heading: "Educate & Instill"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      Code can be just as much a funnel for creativity as painting. Our hope is to contribute code and teach others about code such that it becomes a regular tool for anybody to use.
     imageUrl: "/img/about-sustainable-farming.jpg"
 ---

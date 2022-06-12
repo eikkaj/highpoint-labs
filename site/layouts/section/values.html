@@ -2,6 +2,30 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
+<div class="mw7 center">
+  <div class="ph3 mb3">
+    <br/>
+    <h3 class="f3 b lh-title mb2">where creativity meets code meets the outdoors</h3>
+    <div>we're not your typical digital agency, website design company, or consulting firm.</div>
+    <br/><br/>
+    <div class="flex-m mhn3-m mb4">
+      <div class="ph3-m w-50-m">
+        <img src="/img/portrait.jpeg" alt="" class="db mb2">
+      </div>
+
+      <div class="ph3-m w-50-m">
+        <h3 class="f3 b lh-title mb1">we've grown tired of antiquated technology and lack of access</h3>
+        <p>ever wonder why mountain project kind of sucks? or why it got purchased by a mapping company and what they want to do with your data?<br/><br/>any idea why it's so hard to find potable water not sold in individual plastic bottles?<br/><br/>do you have thoughts about why the popular outdoors online magazines now have paywalls, as well as most other news sites these days?<br/><br/>interested in DAO's, democratizing land purchases, membership-driven physical and digital communities?<br/><br/>well, that's the kind of stuff we're interested in pulling apart, building, and exploring.</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+{{ partial "jumbotron" (dict "imageUrl" "/img/beach.png") }}
+
+<br/>
+<h3 class="f3 b lh-title mb2" style="width:40%;text-align:center;">our values</h3>
 <div class="mw7 center ph3 pt4">
 
   {{ range $index, $element := .Params.values }}

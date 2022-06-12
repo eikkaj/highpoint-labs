@@ -1,55 +1,19 @@
 ---
-title: Our work
+title: HighPoint Labs Services
 type: products
-image: /img/products-jumbotron.jpg
-heading: Our work
+image: /img/tree-banner.png
+heading: HighPoint Labs Services
 description: >-
   Highpoint Labs is a creative, technical agency focused on providing custom solutions in the web application space. We view ourselves as a creative funnel for projects that benefit the local region and beyond where we depend on designers, developers, and other creatives from all walks of life. 
 intro:
-  blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        Our specialty is custom application development. We've gathered, through years and years of experience, strong, quality techniques for bootstrapping your project quickly and efficiently. The benefit is twofold: you save money, time, and stress not having to worry about how to get your app starts and we get to work on lots of interesting projects, all of the time.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        Design services including logo creation, web design, and marketing material.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        We're a strange bunch who not only love the creative space of code but also content. Writing is a passion and we believe content can unleash any business' potential exponentially.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        Content Management. Any modern business NEEDS content management. It goes so far beyond file storage. Curious how a real content management solution can save your business money? Reach out!
-#   heading: What we offer
-#   description: >
-#     Kaldi is the ultimate spot for coffee lovers who want to learn about their
-#     java’s origin and support the farmers that grew it. We take coffee
-#     production, roasting and brewing seriously and we’re glad to pass that
-#     knowledge to anyone. This is an edit via identity...
-# main:
-#   heading: Great coffee with no compromises
-#   description: >
-#     We hold our coffee to the highest standards from the shrub to the cup.
-#     That’s why we’re meticulous and transparent about each step of the coffee’s
-#     journey. We personally visit each farm to make sure the conditions are
-#     optimal for the plants, farmers and the local environment.
-#   image1:
-#     alt: A close-up of a paper filter filled with ground coffee
-#     image: /img/products-grid3.jpg
-#   image2:
-#     alt: A green cup of a coffee on a wooden table
-#     image: /img/products-grid2.jpg
-#   image3:
-#     alt: Coffee beans
-#     image: /img/products-grid1.jpg
-# testimonials:
-#   - author: Elisabeth Kaurismäki
-#     quote: >-
-#       The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-#       the same thing I’ve been drinking every morning.
-#   - author: Philipp Trommler
-#     quote: >-
-#       Kaldi is the place to go if you want the best quality coffee. I love their
-#       stance on empowering farmers and transparency.
+  heading: Application Development
+  description: >
+    We specialize in building applications for any phase of a business: from proof of concepts, MVPs, to HA/DR enterprise solutions. We understand how to walk the fine line of building for the future and not over-engineering solutions and we love to collaborate with our partners to find the perfect balance.
+main:
+  heading: Startup Acceleration
+  description: >
+    Whether you've still only got an idea or you've already proven market viability, we can provide technical advisory and/or engineering services to accelerate your application development.
+  
 # full_image: /img/products-full-width.jpg
 # pricing:
 #   heading: Monthly subscriptions
