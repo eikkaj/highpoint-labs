@@ -1,18 +1,14 @@
 ---
-title: "HighPoint Labs - A Creative Collective"
-subtitle: A Creative Collective Enthralled in Adventure, Sustainability, and Technology
-image: /img/home-jumbotron.jpg
+title: " HighPoint Labs "
+subtitle: a creative collective enthralled in adventure, sustainability, and technology
+image: /img/redrocks.jpeg
 blurb:
     heading: Why HighPoint Labs?
-    text: "We're a local collective enthralled in adventure, sustainability, and technology. Our passion is to bridge these core values together while providing the highest quality of solutions, ideas, content, and thought."
+    text: "Our mission is to provide high quality solutions, ideas, content, and thought utilizing technology. Our passion is to bridge technology with creative and sustainable projects. Driven by our values, we provide unique services specific to the needs in our region and beyond."
 intro:
     heading: What we offer
-    text: "HighPoint Labs specializes in custom web and application development. Our developers have worked across industries while living and breathing scale, reliability, and creativity. We offer tailored applications, websites, or out of the box solutions, depending on our client's need and budget."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    text: "We specialize, first and foremost, in custom web and application development. Our developers have worked across industries while living and breathing scale, reliability, and creativity. We offer tailored applications, websites, or even out-of-the-box solutions, depending on our client's need and budget."
+
 values:
     heading: Our values
     text: Do good. Bring awareness. Educate & Instill. One line of code at a time.
