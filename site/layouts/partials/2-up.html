@@ -1,7 +1,9 @@
 <div class="bg-off-white pv4">
-  <div class="ph3 mw7 center">
-    <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
-    <p class="mb4 mw6">{{.intro.text}}</p>
+  <div class="flex-l mhn1-l ph3 center mw7">
+    <h2 class="f2 b lh-title mb2 w-50-l">{{.intro.heading}}</h2>
+    <p class="w-60-l mb0">We specialize, first and foremost, in web and application development.<br/><br/>We offer tailored applications, websites, or out-of-the-box solutions and recommendations, depending on our client's need and budget.</p>
+    
+    
 
     <div class="flex-ns mhn2-ns mb3">
       {{ range .products }}
@@ -11,9 +13,9 @@
       </div>
       {{ end }}
     </div>
-
-    <div class="tc">
+<div class="tc" style="margin: 10px;">
       <a href="/products" class="btn raise">see all our services</a>
     </div>
+    
   </div>
 </div>

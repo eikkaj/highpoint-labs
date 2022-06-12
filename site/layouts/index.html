@@ -4,10 +4,12 @@
 
 {{ partial "short-text" .Params.blurb}}
 
+{{ partial "jumbotron" (dict "imageUrl" "/img/second-banner.jpeg") }}
+
 {{ partial "2-up" .Params }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "read more" "buttonLink" "/values") }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/ontheroad.png") }}
 
-{{ partial "blog" . }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "more about our values" "buttonLink" "/values") }}
 
 {{ end }}
