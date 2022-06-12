@@ -2,7 +2,7 @@
 title: "Contact"
 logo: "/img/logo.png"
 contact_entries:
-  - heading: Digitally Anywhere, Physically At
+  - heading: Digitally Anywhere, Physically In
     text: "Bishop, California"
   # - heading: Working hours
   #   text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
